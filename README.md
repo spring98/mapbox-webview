@@ -1,6 +1,6 @@
-# map_match_unit
+# mapbox_unit
 
-map-match
+mapbox
 
 ## Getting Started
 
